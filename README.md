@@ -18,13 +18,13 @@
   <tr>
     <td>
 
-🌱 **I’m currently learning**  
+<h3>🌱 I’m currently learning</h3>
 I am an aspiring software engineer currently learning and improving my skills in software development. I am passionate about coding, problem-solving, and building projects that make an impact. Always eager to learn new technologies and collaborate on exciting projects.
 
-📫 **How to reach me**  
+<h3>📫 How to reach me</h3>
 **hiranyamendis52@gmail.com**
 
-⚡ **Fun fact**  
+<h3>⚡ Fun fact</h3>
 I treat my code like a garden — I plant ideas, remove bugs like weeds, and occasionally refactor when it gets too wild.
 
 </td>
@@ -96,17 +96,23 @@ I treat my code like a garden — I plant ideas, remove bugs like weeds, and occ
 
 &emsp;
 
-## 📈 My GitHub Stats and Activity
+<h2 align="center">
+📈 My GitHub Stats and Activity
+</h2>
 
-### 💻 Profile Stats
+<h3 align="center">
+ 💻 Profile Stats
+</h3>
 
 <p align="center">
   <img alt="Hiranya's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=hiranya52&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-<img alt="Hiranya's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hiranya52&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" height="192px"/>  
+ 
 </p>
 
 <p align="center">
   <img alt="Hiranya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiranya52&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 </p>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
