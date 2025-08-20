@@ -101,7 +101,7 @@ I treat my code like a garden — I plant ideas, remove bugs like weeds, and occ
 </h2>
 
 <h3 align="center">
- 💻 Profile Stats
+ 💻 Profile Status
 </h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hiranya52&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
