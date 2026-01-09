@@ -76,7 +76,7 @@ I treat my code like a garden — I plant ideas, remove bugs like weeds, and occ
 <br>
 &emsp;
 
-<<h2 align="center">
+<h2 align="center">
 📈 My GitHub Stats and Activity
 </h2>
 
@@ -93,7 +93,7 @@ I treat my code like a garden — I plant ideas, remove bugs like weeds, and occ
 
 <p align="center">
   <img alt="Hiranya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiranya52&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</p>-->
+</p>
 
 <!--Github Graph-->
 
